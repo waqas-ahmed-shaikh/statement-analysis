@@ -34,7 +34,11 @@ Summarizing financial activity on a monthly basis and overall.
 **Features**
 
 Automated OCR: Extracts text from images with high accuracy.
+
 Transaction Classification: Identifies and categorizes transactions efficiently.
+
 Financial Calculations: Computes total credits, debits, and net balance.
+
 Monthly Breakdown: Offers insights into monthly financial health.
+
 User-Friendly Output: Provides clear and concise summaries of financial data.
