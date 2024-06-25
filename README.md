@@ -1,7 +1,9 @@
 **Financial Statement Analysis Using GPT-4**
+
 This project leverages the power of GPT-4 and advanced OCR technology to automate the analysis of financial data from bank statements provided as images. The goal is to accurately extract and categorize transactions, calculate financial metrics, and provide insightful summaries.
 
 **Project Overview**
+
 This repository contains code and resources for:
 
 1. Image Input Processing:
