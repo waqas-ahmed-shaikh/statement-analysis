@@ -32,6 +32,7 @@ Detailing the total credits and debits for each category.
 Summarizing financial activity on a monthly basis and overall.
 
 **Features**
+
 Automated OCR: Extracts text from images with high accuracy.
 Transaction Classification: Identifies and categorizes transactions efficiently.
 Financial Calculations: Computes total credits, debits, and net balance.
